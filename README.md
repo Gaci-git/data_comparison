@@ -47,7 +47,3 @@ pip install pandas openpyxl
 
 - Adjust `cols_to_remove` to exclude additional columns.
 - Change row limits for performance as needed.
-
-## License
-
-See [LICENSE](LICENSE) for details.

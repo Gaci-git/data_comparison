@@ -31,7 +31,7 @@ pip install pandas openpyxl
 1. Update the file paths for `v1_path` and `v2_path` in the script.
 2. Run the script:
      ```bash
-     python compare.py
+     model_comparison.py
      ```
 3. The Excel report will be saved as `Differences_Report_<filename>.xlsx` in your local environment. Press Shift + Alt + R or right click "Reveal in finder".
 4. If you get an error stating you dont have permision to write. Make sure you don't have an excel file with the same name opened. 
